@@ -1,3 +1,6 @@
+# Description:
+# This script is to test, and learn the lenguage basic operations.
+
 # variables
 name = "Carlos"
 age = 32
