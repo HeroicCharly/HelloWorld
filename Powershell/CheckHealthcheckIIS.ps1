@@ -2,7 +2,7 @@
 # This script uses powershell to call an endpoint in a remote computer
 # to get the information of the application in the IIS.
 
-$credentials = Get-Credential Fandango\cperez
+$credentials = Get-Credential domain\username
 
 $computers = @(
     'computername'
